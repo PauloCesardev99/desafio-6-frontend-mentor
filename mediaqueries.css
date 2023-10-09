@@ -1,0 +1,35 @@
+@media (min-width: 500px) {
+    
+    body{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 98vw;
+        height: 97vh;
+    
+    }
+
+    .conteudo-total{
+        width: 30%;
+    }
+
+
+    .change a:hover{
+        color:  hsl(224, 23%, 55%);
+        text-decoration: none;
+    }
+
+    .btn button:hover{
+        background-color:  hsl(224, 23%, 55%) ;
+    }
+
+
+    .btn-cancel button:hover{
+        color: hsl(223, 47%, 23%);
+
+    }
+    
+
+
+
+}
